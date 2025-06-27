@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://github.com/guptaujjwal1128/product-preview-card-component)
-- Live Site URL: [Live](https://guptaujjwal1128.github.io/product-preview-card-component)
+- Solution URL: [Code](https://github.com/guptaujjwal1128/four-card-feature-section)
+- Live Site URL: [Live](https://guptaujjwal1128.github.io/four-card-feature-section/)
 
 ## My process
 
